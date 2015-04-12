@@ -1,5 +1,5 @@
 from .schema import SchemaInterface
-from .steamapi.core import SteamObject
+from .steamapi.steamapi.core import SteamObject
 
 
 class ItemInfo(object):

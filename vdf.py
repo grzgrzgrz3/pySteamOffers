@@ -2,8 +2,6 @@
 Converting in dirty way vdf(steam client data format) file to json 
 """
 import json
-import re
-
 
 
 def b(str):
