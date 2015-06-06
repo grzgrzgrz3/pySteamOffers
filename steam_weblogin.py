@@ -186,4 +186,4 @@ class SentOffer(Offer):
 
 
 if __name__ == "__main__":
-    Bot('grzgrzgrz3', 'killer5')
+    Bot('grzgrzgrz3', '')
